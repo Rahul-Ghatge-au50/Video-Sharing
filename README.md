@@ -1,7 +1,12 @@
+#TAKE PULL FROM THE REPOSITORY
+
+
 #Backend Part
-1) Take Pull from the repositroy
-2) cd to server
-3) npm install for the dependencys
-4) npm start
+1) cd to server
+2) npm install for the dependencys
+3) npm start to start
 
-
+# Frontend Part
+1) cd to client
+2) npm install
+3) npm run dev to start
